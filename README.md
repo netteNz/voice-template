@@ -2,5 +2,6 @@
 
 ```
 Install with
+pip3 install requirements.txt
 ```
-```pip3 install requirements.txt```
+
